@@ -1,19 +1,19 @@
 
 /**
- * Write a description of class k here.
+ * Write a description of class T here.
  *
  * @author (your name)
  * @version (a version number or a date)
  */
-public class k
+public class T
 {
     // instance variables - replace the example below with your own
     private int x;
 
     /**
-     * Constructor for objects of class k
+     * Constructor for objects of class T
      */
-    public k()
+    public T()
     {
         // initialise instance variables
         x = 0;
