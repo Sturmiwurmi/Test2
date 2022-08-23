@@ -1,19 +1,19 @@
 
 /**
- * Write a description of class w here.
+ * Write a description of class k here.
  *
  * @author (your name)
  * @version (a version number or a date)
  */
-public class w extends k
+public class k
 {
     // instance variables - replace the example below with your own
     private int x;
 
     /**
-     * Constructor for objects of class w
+     * Constructor for objects of class k
      */
-    public w()
+    public k()
     {
         // initialise instance variables
         x = 0;
